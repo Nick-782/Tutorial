@@ -1,0 +1,6 @@
+Hi all, I'll teach all the things about Web Development form Scratch.
+In this Lecture we'll learn basic things about HTML.
+
+
+So HTML: Hypertext Markup Language, for general knowledge i wannna tell you that in REDME.md here the .md is called as Markdown it is subPart or HTML or we can say that just have features like: BOLD,ITALIC etc .
+
